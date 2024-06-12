@@ -8,4 +8,3 @@ keras-transformer==0.21.0
 tqdm
 scikit-learn
 six
-argparse
